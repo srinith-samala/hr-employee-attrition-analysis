@@ -26,14 +26,6 @@ The analysis uses employee attributes such as:
 - Monthly Income
 - Experience
 
----
-
-## 📊 Dashboard Preview
-
-![HR Attrition Dashboard](Dashboard.png)
-
----
-
 ## 🛠 Tools & Technologies Used
 
 - Python
