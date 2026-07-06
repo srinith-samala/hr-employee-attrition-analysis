@@ -50,6 +50,7 @@ The analysis uses employee attributes such as:
   - Data types
   - Statistical summary
 
+---
 ### Data Transformation
 
 Performed cleaning operations:
