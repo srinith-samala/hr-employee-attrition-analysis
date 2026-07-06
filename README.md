@@ -26,6 +26,8 @@ The analysis uses employee attributes such as:
 - Monthly Income
 - Experience
 
+---
+
 ## 🛠 Tools & Technologies Used
 
 - Python
