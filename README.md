@@ -30,7 +30,7 @@ The analysis uses employee attributes such as:
 
 ## 📊 Dashboard Preview
 
-![HR Attrition Dashboard](dashboard.png)
+![HR Attrition Dashboard](Dashboard.png)
 
 ---
 
